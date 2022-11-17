@@ -1,0 +1,74 @@
+[
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009378944
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009378944
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxtyrU.0&sid=Qd6jSuIbPWpMlqqqAMZL - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009383026
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxtyrS&sid=NIJ0mKGMy37KkE3YAMZK - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009383310
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=NIJ0mKGMy37KkE3YAMZK' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009383801
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=Qd6jSuIbPWpMlqqqAMZL' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009384207
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps-api-v3\/api\/js\/50\/1\/util.js 245:64 \"Google Maps JavaScript API warning: SensorNotRequired https:\/\/developers.google.com\/maps\/documentation\/javascript\/error-messages#sensor-not-required\"",
+        "source": "console-api",
+        "timestamp": 1661009393668
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js-V3\/employer\/jquery-3.5.1.min.js 1:84830 Uncaught TypeError: e.indexOf is not a function",
+        "source": "javascript",
+        "timestamp": 1661009407466
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js-V3\/employer\/jquery-3.5.1.min.js 1:84830 Uncaught TypeError: e.indexOf is not a function",
+        "source": "javascript",
+        "timestamp": 1661009408980
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxu3Fg&sid=DRiwmCniqAUGIo16AMZW - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009409251
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js\/moment-timezone-with-data-2012-2022.min.js - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009412139
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps-api-v3\/api\/js\/50\/1\/util.js 245:64 \"Google Maps JavaScript API warning: SensorNotRequired https:\/\/developers.google.com\/maps\/documentation\/javascript\/error-messages#sensor-not-required\"",
+        "source": "console-api",
+        "timestamp": 1661009416763
+    }
+]

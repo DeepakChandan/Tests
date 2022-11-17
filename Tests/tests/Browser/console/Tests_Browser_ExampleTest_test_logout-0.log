@@ -1,0 +1,62 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js-V3\/employer\/jquery-3.5.1.min.js 1:31669 Uncaught ReferenceError: form is not defined",
+        "source": "javascript",
+        "timestamp": 1661009863010
+    },
+    {
+        "level": "SEVERE",
+        "message": "javascript 328:118 Uncaught TypeError: Cannot read properties of null (reading 'unselectable')",
+        "source": "javascript",
+        "timestamp": 1661009863217
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/storage\/employer_videos\/EMP_1873\/d517dd415a958bdcab57aae875b2e817_1873.mp4 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009863304
+    },
+    {
+        "level": "SEVERE",
+        "message": "console-api 17:1532 \"VIDEOJS:\" \"ERROR:\" \"(CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED)\" \"The media could not be loaded, either because the server or network failed or because the format is not supported.\" _t",
+        "source": "console-api",
+        "timestamp": 1661009863306
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/storage\/employer_videos\/EMP_1873\/thumb\/d517dd415a958bdcab57aae875b2e817_1873.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009863725
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/storage\/employer_videos\/EMP_1873\/d517dd415a958bdcab57aae875b2e817_1873.mp4 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009864234
+    },
+    {
+        "level": "SEVERE",
+        "message": "console-api 17:1532 \"VIDEOJS:\" \"ERROR:\" \"(CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED)\" \"The media could not be loaded, either because the server or network failed or because the format is not supported.\" _t",
+        "source": "console-api",
+        "timestamp": 1661009864237
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009865029
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009865030
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvoeg&sid=3qpmw51SrJ_kcSFDAMhB - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009865511
+    }
+]

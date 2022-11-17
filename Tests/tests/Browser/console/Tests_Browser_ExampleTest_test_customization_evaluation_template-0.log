@@ -1,0 +1,38 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvhmH&sid=wKArL2xx5teYiov0AMgK - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009837136
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvhmF&sid=wKArL2xx5teYiov0AMgK - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009837329
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009838778
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009838778
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=jOQnjMq1hoaUITK-AMgN' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009839412
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/css-V3\/images\/bg-main.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009840434
+    }
+]

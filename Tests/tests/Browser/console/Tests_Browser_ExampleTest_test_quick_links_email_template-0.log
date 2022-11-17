@@ -1,0 +1,152 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js-V3\/jquery-3.5.1.min.js?id=dc5e7f18c8d36ac1d3d4 1:70618 Uncaught TypeError: Cannot convert undefined or null to object",
+        "source": "javascript",
+        "timestamp": 1661009491854
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/images-V3\/employer\/integration\/hiringthings.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009494029
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/images-V3\/employer\/integration\/naukri-rms.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009494206
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009495921
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009495922
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/jobma_manage_credit\/template - Refused to apply style from 'https:\/\/dev.jobma.com\/css\/color-picker.min.css' because its MIME type ('text\/html') is not a supported stylesheet MIME type, and strict MIME checking is enabled.",
+        "source": "security",
+        "timestamp": 1661009499879
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/94d1f9ee58c680e54815eafeca1914a4.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500375
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/ddf7c65bc33a8fa401c9b0a0a361264f.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500396
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/1805596731e9219e185ac3766b1371f0.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+        "source": "network",
+        "timestamp": 1661009500437
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/1ef99ee84f1a8b81c12778f135430480.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500446
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/ - Failed to load resource: the server responded with a status of 403 ()",
+        "source": "network",
+        "timestamp": 1661009500596
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/14a969b4581b93e48b372a529ceb3aba.jpeg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+        "source": "network",
+        "timestamp": 1661009500896
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/772877260d20fb48754797f2db2e8da9.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+        "source": "network",
+        "timestamp": 1661009500897
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/0f8560a8dc4fe174be651e9ac8d1b29a.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+        "source": "network",
+        "timestamp": 1661009500897
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/a4efeee61f5bdf2b4dba76fa3bbc819b.png - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+        "source": "network",
+        "timestamp": 1661009500899
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/a941bb068274b123f82205e3bbde3a54.jpeg - Failed to load resource: net::ERR_HTTP2_PROTOCOL_ERROR",
+        "source": "network",
+        "timestamp": 1661009500899
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/1daace2e2debbe9e26dbbc2d7d8db223.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500899
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/736cf5d5901abbe865402614fd4fe3ed.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/eeec673130f636aeda176fa93810f579.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/1b2a905c036ec82b6320075d1f6ce366.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/47fab3a171288bdd1de3cf7ceabd0f0c.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/5f9833d3dbceecc1bae4c744b6a7669e.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/3f9cbbff13e6de6f0a5893eda9a2d8b5.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/54f858ac70115bb789c3865da97a510e.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009500900
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/picture_email_branding\/d42f0e3a35536956a7a0b36296387e4a.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009501109
+    }
+]

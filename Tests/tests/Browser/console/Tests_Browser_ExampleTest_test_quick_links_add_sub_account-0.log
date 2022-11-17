@@ -1,0 +1,14 @@
+[
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009349114
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009349114
+    }
+]

@@ -1,0 +1,92 @@
+[
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009300870
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009300870
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js\/jquery.card.js 195:17 \"Card can't find a nameInput in your form.\"",
+        "source": "console-api",
+        "timestamp": 1661009304403
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/addons\/paymentGatway\/MjU=?cost=20000 - Access to script at 'https:\/\/embed.tawk.to\/5a69619b4b401e45400c6016\/default' from origin 'https:\/\/dev.jobma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "source": "javascript",
+        "timestamp": 1661009304456
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/embed.tawk.to\/5a69619b4b401e45400c6016\/default - Failed to load resource: net::ERR_FAILED",
+        "source": "network",
+        "timestamp": 1661009304457
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/css-V3\/images\/bg-main.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009307602
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js\/jquery.card.js 195:17 \"Card can't find a nameInput in your form.\"",
+        "source": "console-api",
+        "timestamp": 1661009309270
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/addons\/paymentGatway\/MjI=?cost=5000 - Access to script at 'https:\/\/embed.tawk.to\/5a69619b4b401e45400c6016\/default' from origin 'https:\/\/dev.jobma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "source": "javascript",
+        "timestamp": 1661009309311
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/embed.tawk.to\/5a69619b4b401e45400c6016\/default - Failed to load resource: net::ERR_FAILED",
+        "source": "network",
+        "timestamp": 1661009309312
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/css-V3\/images\/bg-main.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009309750
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/cdn.ckeditor.com\/4.5.10\/standard-all\/ckeditor.js 302:287 Uncaught TypeError: Cannot read properties of undefined (reading 'getEditor')",
+        "source": "javascript",
+        "timestamp": 1661009311431
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/www.gstatic.com\/charts\/50\/js\/jsapi_compiled_default_module.js 121:258 Uncaught Error: Container is not defined",
+        "source": "javascript",
+        "timestamp": 1661009311540
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/purchase-subscription\/NA== - Access to script at 'https:\/\/embed.tawk.to\/5a69619b4b401e45400c6016\/default' from origin 'https:\/\/dev.jobma.com' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource.",
+        "source": "javascript",
+        "timestamp": 1661009311719
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/embed.tawk.to\/5a69619b4b401e45400c6016\/default - Failed to load resource: net::ERR_FAILED",
+        "source": "network",
+        "timestamp": 1661009311722
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/css-V3\/images\/bg-main.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009312213
+    }
+]

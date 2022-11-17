@@ -1,0 +1,38 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=P0MZjMye-p8Y5bxEAMg1' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009859520
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxvnDW.0&sid=P0MZjMye-p8Y5bxEAMg1 - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009859681
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009860994
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009860994
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=Rt7ZhrRgEAPQcCShAMg4' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009861415
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/storage\/employer_videos\/EMP_1873\/thumb\/d517dd415a958bdcab57aae875b2e817_1873.jpg - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009862612
+    }
+]

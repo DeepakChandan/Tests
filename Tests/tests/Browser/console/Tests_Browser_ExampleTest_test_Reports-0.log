@@ -1,0 +1,218 @@
+[
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009756621
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009756621
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=R6dFOzlfdOrNqmDxAMd7' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009757215
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009758260
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxvOq_&sid=XiuYqMtLgFCGGuOfAMeC - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009759615
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvOr0.0&sid=EJyWBftjzCg0kk20AMeD - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009759618
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=EJyWBftjzCg0kk20AMeD' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009759643
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009760508
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009768243
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=UdQTqUsOzwa1dquiAMeS' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009770078
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=q9whJURi4fVQpEBMAMeT' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009770134
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvROz&sid=UdQTqUsOzwa1dquiAMeS - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009770166
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxvRO-&sid=q9whJURi4fVQpEBMAMeT - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009770256
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009771069
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxvS0M&sid=B6jsA5vpDQHzhKdAAMeb - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009772603
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvS0K&sid=lP0NFJvc5GoERgXxAMea - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009772814
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009773513
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=V3t9m5nrgrFXF3okAMei' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009774086
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009774901
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvSuo&sid=uHO1cowwn42DXbC-AMep - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009776240
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxvSv3&sid=bA6TmjqScYVCWG7bAMeq - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009776241
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=bA6TmjqScYVCWG7bAMeq' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009776266
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009777346
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=hBWHM9-zWj5EfyPzAMex' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009778664
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=KYBYqiciPYHHfV7EAMey' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009778710
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009779556
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009782208
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009783701
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvV2d&sid=7AMGffplaD0a1h47AMfJ - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009785239
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009786257
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009788394
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=websocket&sid=qN2gzg3qRhWIrTfkAMfX' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009789757
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=31873&EIO=4&transport=polling&t=OAxvWCO&sid=qN2gzg3qRhWIrTfkAMfX - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009789765
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=polling&t=OAxvWCQ.0&sid=016sEU2dRqpmdvs5AMfY - Failed to load resource: the server responded with a status of 400 (Bad Request)",
+        "source": "network",
+        "timestamp": 1661009789767
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=016sEU2dRqpmdvs5AMfY' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009789800
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/images\/user.png - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009790695
+    }
+]

@@ -1,0 +1,20 @@
+[
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009814088
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009814089
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1705 WebSocket connection to 'wss:\/\/dev.jobma.com:5010\/socket.io\/?user_id=feature_notification&EIO=4&transport=websocket&sid=azt52Sx2bqMp-LwdAMfl' failed: Error during WebSocket handshake: Unexpected response code: 400",
+        "source": "network",
+        "timestamp": 1661009815001
+    }
+]

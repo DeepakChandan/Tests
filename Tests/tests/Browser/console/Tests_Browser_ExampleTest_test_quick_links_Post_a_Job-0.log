@@ -1,0 +1,38 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/employer\/interview-assessment-kit-add#\/exit-note - Blocked attempt to show a 'beforeunload' confirmation panel for a frame that never had a user gesture since its load. https:\/\/www.chromestatus.com\/feature\/5082396709879808",
+        "source": "intervention",
+        "timestamp": 1661009458260
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1770 WebSocket is already in CLOSING or CLOSED state.",
+        "source": "javascript",
+        "timestamp": 1661009458525
+    },
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com:5010\/socket.io\/socket.io.js 1770 WebSocket is already in CLOSING or CLOSED state.",
+        "source": "javascript",
+        "timestamp": 1661009458584
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009463589
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009463589
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/maps.googleapis.com\/maps-api-v3\/api\/js\/50\/1\/util.js 245:64 \"Google Maps JavaScript API warning: SensorNotRequired https:\/\/developers.google.com\/maps\/documentation\/javascript\/error-messages#sensor-not-required\"",
+        "source": "console-api",
+        "timestamp": 1661009470132
+    }
+]

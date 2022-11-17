@@ -1,0 +1,32 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/storage\/employer_videos\/EMP_1873\/d517dd415a958bdcab57aae875b2e817_1873.mp4 - Failed to load resource: the server responded with a status of 404 ()",
+        "source": "network",
+        "timestamp": 1661009357848
+    },
+    {
+        "level": "SEVERE",
+        "message": "console-api 17:1532 \"VIDEOJS:\" \"ERROR:\" \"(CODE:4 MEDIA_ERR_SRC_NOT_SUPPORTED)\" \"The media could not be loaded, either because the server or network failed or because the format is not supported.\" _t",
+        "source": "console-api",
+        "timestamp": 1661009357850
+    },
+    {
+        "level": "SEVERE",
+        "message": "javascript 328:118 Uncaught TypeError: Cannot read properties of null (reading 'unselectable')",
+        "source": "javascript",
+        "timestamp": 1661009358017
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009359444
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009359445
+    }
+]

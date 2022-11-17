@@ -1,0 +1,20 @@
+[
+    {
+        "level": "SEVERE",
+        "message": "https:\/\/dev.jobma.com\/js-V3\/jquery-3.5.1.min.js?id=dc5e7f18c8d36ac1d3d4 1:70618 Uncaught TypeError: Cannot convert undefined or null to object",
+        "source": "javascript",
+        "timestamp": 1661009285805
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().subtract(period, number) is deprecated. Please use moment().subtract(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009295722
+    },
+    {
+        "level": "WARNING",
+        "message": "https:\/\/dev.jobma.com\/js\/moment.min.js 16:261 \"Deprecation warning: moment().add(period, number) is deprecated. Please use moment().add(number, period). See http:\/\/momentjs.com\/guides\/#\/warnings\/add-inverted-param\/ for more info.\"",
+        "source": "console-api",
+        "timestamp": 1661009295722
+    }
+]
